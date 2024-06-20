@@ -29,7 +29,7 @@
 
 <div id="assistant">
   <div class="chat-container" id="chat"></div>
-  <input type="text" id="userInput" placeholder="Задайте вопрос...">
+  <input type="text" id="userInput" placeholder="Задайте вопрос...">//тут должен быть вопросительный знак !!!Замечание!!!
   <button id="sendBtn">Отправить</button>
 </div>
 
